@@ -1,3 +1,3 @@
 # USACO
-USACO solutions
-train.usaco.org
+USACO solutions  
+[train.usaco.org](train.usaco.org)
